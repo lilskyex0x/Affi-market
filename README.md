@@ -1,6 +1,6 @@
 # Affi-market
 
-> Short blurb about what your product does.
+> Anything you want is here (Still Developing).
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
